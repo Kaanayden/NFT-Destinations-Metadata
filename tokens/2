@@ -1,0 +1,22 @@
+{
+  "description": "About Turkiye", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
+  "name": "Test Country",
+  "attributes": [
+    {
+      "trait_type": "Continent", 
+      "value": "Asia"
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Latitude", 
+      "value": 61.5125
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Longtitude", 
+      "value": 38.2672
+    }
+  ]
+}
