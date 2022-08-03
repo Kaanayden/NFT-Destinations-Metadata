@@ -11,12 +11,12 @@
     {
       "display_type": "number", 
       "trait_type": "Latitude", 
-      "value": 38
+      "value": 38.5125
     },
     {
       "display_type": "number", 
       "trait_type": "Longtitude", 
-      "value": 42
+      "value": 42.2672
     }
   ]
 }
